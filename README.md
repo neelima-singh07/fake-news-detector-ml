@@ -1,7 +1,8 @@
 # 📰 Fake News Detector
 
-A machine learning-powered web application built with Streamlit to detect fake news articles. This project uses natural language processing techniques to analyze news content and predict whether it's real or fake.
+A machine learning-powered web application built with Streamlit to detect fake news articles. This project  analyze news content and predict whether it's real or fake.
 
+## Deployed Link : (https://fake-news-detector-ml-yfir23yax6pxmlf7irpp73.streamlit.app/)
 ## 🚀 Features
 
 - **Real-time Analysis**: Instantly analyze news articles for authenticity
@@ -79,14 +80,6 @@ The model is trained on a dataset of real and fake news articles and provides:
 - Confidence scoring
 - Text analysis metrics
 
-## 🤝 Contributors
-
-- **Neelima** - Co-developer
-- **Harleen** - Co-developer
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔮 Future Enhancements
 
@@ -98,4 +91,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by Neelima & Harleen!
+
