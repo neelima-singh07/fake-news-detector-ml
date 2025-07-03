@@ -2,7 +2,7 @@
 
 A machine learning-powered web application built with Streamlit to detect fake news articles. This project  analyze news content and predict whether it's real or fake.
 
-## Deployed Link : (https://fake-news-detector-ml-yfir23yax6pxmlf7irpp73.streamlit.app/)
+## Deployed Link : (https://fake-news-detector-ml-yfir23yax6pxmlf7irpp73.streamlit.app/?embed_options=show_toolbar,show_footer)
 ## 🚀 Features
 
 - **Real-time Analysis**: Instantly analyze news articles for authenticity
