@@ -66,4 +66,4 @@ if st.button("🔍 Analyze News"):
             st.warning("🔴 Low Confidence")
 
         st.markdown("---")
-        st.markdown("<p style='text-align:center; font-size:13px; color:#999;'>Made  with ❤️ By Neelima & Harleen!</p>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align:center; font-size:13px; color:#999;'>Made  with ❤️ By Neelima!</p>", unsafe_allow_html=True)
