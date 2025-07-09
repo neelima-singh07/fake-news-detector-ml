@@ -24,7 +24,6 @@ fake_df = pd.read_csv("data/Fake.csv")
 
 true_df["label"] = 1  # Real
 fake_df["label"] = 0  # Fake
-
 df = pd.concat([true_df, fake_df])
 df["content"] = df["title"] + " " + df["text"]
 df = df[["content", "label"]]
@@ -90,7 +89,6 @@ evaluate_model("Multinomial Naive Bayes", nb_model)
 # 7. Save the Best Model (choose one)
 # -----------------------------
 best_model = log_model  # or nb_model if it performed better
-
 os.makedirs("model", exist_ok=True)
 pickle.dump(best_model, open("model/model.pkl", "wb"))
 pickle.dump(vectorizer, open("model/vectorizer.pkl", "wb"))
